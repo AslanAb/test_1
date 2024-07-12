@@ -1,0 +1,16 @@
+{
+  "contact_us": "Contact us",
+  "name": "Name",
+  "enter_name": "Enter name",
+  "email": "Email",
+  "enter_email": "Enter email",
+  "phone": "Phone number",
+  "i_agree": "I accept",
+  "conf_policy": "the privacy policy",
+  "submit": "Submit",
+  "required": "Required field",
+  "correct_email": "Enter a correct email",
+  "correct_phone": "Enter a correct phone number",
+  "error_toast": "An error occurred, please try later",
+  "success_toast": "Thank you for contacting us, we will contact you shortly"
+}
